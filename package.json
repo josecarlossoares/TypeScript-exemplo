@@ -1,0 +1,17 @@
+{
+  "name": "typescript-exemplo",
+  "version": "1.0.0",
+  "description": "exemplo de código em typescript usando objetos e vetores",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "José Carlos",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^5.2.2"
+  }
+}
